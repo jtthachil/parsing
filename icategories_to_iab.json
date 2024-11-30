@@ -1,0 +1,14 @@
+{   
+    "Books" : "(IAB-9) Hobbies & Interests","Medical" : "(IAB-7) Health & Fitness", "Business" : "(IAB-3) Business",
+    "Music" : "(IAB-1) Arts & Entertainment","Developer Tools" : "(IAB-19) Technology & Computing",
+    "Navigation" : "(IAB-20) Travel", "Education" : "(IAB-5) Education", "News" : "(IAB-12) News",
+    "Entertainment" : "(IAB-1) Arts & Entertainment", "Photo & Video" : "(IAB-9) Hobbies & Interests", 
+    "Finance" : "(IAB-13) Personal Finance","Productivity" : "(IAB-3) Business", "Food & Drink" : "(IAB-8) Food & Drink",
+    "Reference" : "(IAB-5) Education", "Games" : "(IAB-9) Hobbies & Interests",
+    "Safari Extensions" : "(IAB-19) Technology & Computing", "Graphics & Design" : "(IAB-1) Arts & Entertainment", 
+    "Shopping" : "(IAB-22) Shopping","Health & Fitness" : "(IAB-7) Health & Fitness", 
+    "Social Networking" : "(IAB-14) Society", "Lifestyle" : "(IAB-9) Hobbies & Interests",
+    "Sports" : "(IAB-17) Sports", "Kids" : "(IAB-6) Family & Parenting", "Travel" : "(IAB-20) Travel",
+    "Magazines & Newspapers" : "(IAB-12) News",
+    "Utilities" : "(IAB-19) Technology & Computing", "Weather" : "(IAB-15) Science"
+}
